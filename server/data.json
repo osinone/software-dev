@@ -1,0 +1,10 @@
+{
+    "ka": [
+        {
+            "type": "pay",
+            "money": -99,
+            "useFor": "drinks",
+            "id": 1
+        }
+    ]
+}
